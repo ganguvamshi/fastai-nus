@@ -3,7 +3,7 @@
 	1. Early stop
 	2. Data Augmentation
 		- node, cropping, transformation of existing data
-		- use Generative Model (VAW or GAN) on existing data, and sampling from the normal distribution 
+		- use Generative Model (VAW or GAN) on existing data, and sampling from the normal distribution
 
 	3. REGULARIZATON:
 		-  NOT TO HAVE A BETTER FIT
