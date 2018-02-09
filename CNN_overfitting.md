@@ -24,3 +24,5 @@
 ## underfitting
   - Accuracy is declining in both training and testing phases
   - add more layers in the hidden layers
+
+* [slides](fastAI_week4.pdf)
